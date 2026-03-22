@@ -99,9 +99,3 @@ This project demonstrates:
 - Creating responsive layouts with media queries
 - Adding interactivity with a small JavaScript `toggle` function
 - Applying a cohesive visual theme using CSS variables and custom fonts
-
----
-
-## 📄 License
-
-This project was built as part of a Web Development Internship. Free to use and modify for personal or educational purposes.
